@@ -1,0 +1,10 @@
+{
+    "name": "slowify-proxy",
+    "version": "1.0.0",
+    "author": "Manuel Möhlmann <mail@manmoe.com>",
+    "description": "Proxy for slowing down requests",
+    "dependencies": {
+        "http-proxy": "~0.8.7"
+    },
+    "engine": "node 0.8.18"
+}
