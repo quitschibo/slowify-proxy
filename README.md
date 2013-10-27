@@ -22,6 +22,9 @@ You can configure explicit paths in [this section](https://github.com/quitschibo
 
 # How to run
 ```
+// clone repo and change directory
+git clone https://github.com/quitschibo/slowify-proxy.git && cd slowify-proxy
+
 // install dependencies
 npm install
 
