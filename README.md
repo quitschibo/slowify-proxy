@@ -1,5 +1,6 @@
 slowify-proxy
 =============
+[![Dependency Status](https://gemnasium.com/quitschibo/slowify-proxy.png)](https://gemnasium.com/quitschibo/slowify-proxy)
 
 A http proxy for slowing down request. Nice for testing. ;)
 A core feature is, that you can configure different delay times for different paths.
